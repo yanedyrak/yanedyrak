@@ -37,19 +37,18 @@
 
 <h1 align='center'>Every day you need to become better</h1>
 
----
-
 ## 💻 My Backend Stack
 
+<div align='center'>
 <img src="icons/golang.png" alt="Golang" width="50" height="50">  
 <img src="icons/gin.png" alt="Gin" width="50" height="50">  
 <img src="icons/postgres.webp" alt="PostgreSQL" width="50" height="50">  
 <img src="icons/sql.png" alt="SQL" width="50" height="50">
-
----
+</div>
 
 ## 💻 My Frontend Stack
 
+<div align='center'>
 <img src="icons/ts.png" alt="TypeScript" width="50" height="50">  
 <img src="icons/js.png" alt="JavaScript" width="50" height="50">  
 <img src="icons/react.png" alt="React" width="50" height="50">  
@@ -59,3 +58,4 @@
 <img src="icons/rtk.png" alt="Redux" width="50" height="50">  
 <img src="icons/mobx.webp" alt="MobX" width="50" height="50">  
 <img src="icons/zustand.png" alt="Zustand" width="90" height="50">
+</div>
