@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="1000" alt="GIF" src="https://img.wattpad.com/09c1230805151dc41e5d00255de49990f199888d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f597a636f6d752d763061615841773d3d2d3239312e313664333833373831363364396131633435383235323134393131382e676966">
+  <img height="300" width="800" alt="GIF" src="https://img.wattpad.com/09c1230805151dc41e5d00255de49990f199888d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f597a636f6d752d763061615841773d3d2d3239312e313664333833373831363364396131633435383235323134393131382e676966">
 </div>
 
 # Hi 👋, I'm Ilya
@@ -14,18 +14,28 @@
 
 <div>
 <div align="center">
-<img src="https://i.gifer.com/7FDv.gif" align="right">
+<img width='600' height='300' src="https://i.gifer.com/7FDv.gif" align="right">
   </div>
-<p>- Solve programming problems </p>
-<p>- Watch anime or read manga </p>
-<p>- Learn something new every day </p>
+<p>- Backend web development</p>
+<p>- Frontend web development</p>
+<p>- Clean Code</p>
+<p>- Design Patterns</p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </div>
 
 ## 📅 Hobbies
 
-<img src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif" alt="GIF" width="600" height="300" ">
+<div align='right'>
+<div align="">
+<img width='600' height='300' src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif" align="left">
+</div>
+<p>- Solve programming problems </p>
+<p>- Watch anime or read manga </p>
+<p>- Learn something new every day </p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</div>
 
-### Every day you need to become better
+<h1 align='center'>Every day you need to become better</h1>
 
 ---
 
