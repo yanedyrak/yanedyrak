@@ -12,26 +12,18 @@
 
 ## 💬 Ask me about
 
-<img src="https://i.gifer.com/7FDv.gif" alt="GIF" width="300" height="200" style="float:left; margin-right:20px;">
-<p>- Backend web development</p>
-<p>- Frontend web development</p>
-<p>- Clean Code</p>
-<p>- Design Patterns</p>
-
-<div style="clear:both;"></div>
-
----
+<div>
+<div align="center">
+<img src="https://i.gifer.com/7FDv.gif" align="right">
+  </div>
+<p>- Solve programming problems </p>
+<p>- Watch anime or read manga </p>
+<p>- Learn something new every day </p>
+</div>
 
 ## 📅 Hobbies
 
-<img src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif" alt="GIF" width="300" height="200" style="float:left; margin-right:20px;">
-<p>- Solve programming problems</p>
-<p>- Watch anime or read manga</p>
-<p>- Learn something new every day</p>
-
-<div style="clear:both;"></div>
-
----
+<img src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif" alt="GIF" width="600" height="300" ">
 
 ### Every day you need to become better
 
@@ -39,21 +31,21 @@
 
 ## 💻 My Backend Stack
 
-<img src="icons/golang.png" alt="Golang" width="50" height="50">
-<img src="icons/gin.png" alt="Gin" width="50" height="50">
-<img src="icons/postgres.webp" alt="PostgreSQL" width="50" height="50">
+<img src="icons/golang.png" alt="Golang" width="50" height="50">  
+<img src="icons/gin.png" alt="Gin" width="50" height="50">  
+<img src="icons/postgres.webp" alt="PostgreSQL" width="50" height="50">  
 <img src="icons/sql.png" alt="SQL" width="50" height="50">
 
 ---
 
 ## 💻 My Frontend Stack
 
-<img src="icons/ts.png" alt="TypeScript" width="50" height="50">
-<img src="icons/js.png" alt="JavaScript" width="50" height="50">
-<img src="icons/react.png" alt="React" width="50" height="50">
-<img src="icons/next.png" alt="Next.js" width="50" height="50">
-<img src="icons/scss.png" alt="SCSS" width="50" height="50">
-<img src="icons/tailwind.png" alt="TailwindCSS" width="50" height="50">
-<img src="icons/rtk.png" alt="Redux" width="50" height="50">
-<img src="icons/mobx.webp" alt="MobX" width="50" height="50">
+<img src="icons/ts.png" alt="TypeScript" width="50" height="50">  
+<img src="icons/js.png" alt="JavaScript" width="50" height="50">  
+<img src="icons/react.png" alt="React" width="50" height="50">  
+<img src="icons/next.png" alt="Next.js" width="50" height="50">  
+<img src="icons/scss.png" alt="SCSS" width="50" height="50">  
+<img src="icons/tailwind.png" alt="TailwindCSS" width="50" height="50">  
+<img src="icons/rtk.png" alt="Redux" width="50" height="50">  
+<img src="icons/mobx.webp" alt="MobX" width="50" height="50">  
 <img src="icons/zustand.png" alt="Zustand" width="90" height="50">
