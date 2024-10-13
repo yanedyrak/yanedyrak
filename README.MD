@@ -1,5 +1,5 @@
 <div align="center">
-  <img hight="300" width="700" alt="GIF" align="center" src="https://img.wattpad.com/09c1230805151dc41e5d00255de49990f199888d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f597a636f6d752d763061615841773d3d2d3239312e313664333833373831363364396131633435383235323134393131382e676966">
+  <img hight="300" width="1000" alt="GIF" align="center" src="https://img.wattpad.com/09c1230805151dc41e5d00255de49990f199888d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f597a636f6d752d763061615841773d3d2d3239312e313664333833373831363364396131633435383235323134393131382e676966">
 </div>
 
 <h1 align="center">Hi 👋, I'm Ilya</h1>
@@ -15,13 +15,13 @@
 <p align="left">- Clean Code</p>
 <p align="left">- Design Patterns</p>
 </div>
-<img alt="GIF" align="center" src="https://i.gifer.com/7FDv.gif">
+<img width='600px' height='300px' alt="GIF" align="right" src="https://i.gifer.com/7FDv.gif">
 </div>
 
 ## 📅 Hobbies
 
-<div align='center' style="display:flex">
-<img hight="300" width="700" alt="GIF" align="center" src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif">
+<div align='center' style="display:flex; justify-content:space-between">
+<img width='600px' height='300px'  alt="GIF" align="right" src="https://aniyuki.com/wp-content/uploads/2021/08/aniyuki-kaneki-tokyo-ghoul-gif-51.gif">
 <div style="display:flex; flex-direction:column; margin-left:30px">
 <p align="left">- Solve programming problems</p>
 <p align="left">- Watch anime or read some mange</p>
